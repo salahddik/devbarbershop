@@ -1,5 +1,6 @@
 # DevBarberShop
 
+you can test in https://engice.s1-tastewp.com/
 DevBarberShop is a WordPress-based project tailored for creating a professional and functional website for barber shops. This project is designed to provide a modern and responsive platform for barber shops to showcase their services, manage bookings, and connect with customers.
 
 ---
