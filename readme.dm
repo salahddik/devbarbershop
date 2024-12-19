@@ -1,6 +1,6 @@
 # DevBarberShop
 
-you can test in https://engice.s1-tastewp.com/
+you can test in https://dev-salahdev.pantheonsite.io/
 DevBarberShop is a WordPress-based project tailored for creating a professional and functional website for barber shops. This project is designed to provide a modern and responsive platform for barber shops to showcase their services, manage bookings, and connect with customers.
 
 ---
@@ -43,7 +43,7 @@ DevBarberShop is a WordPress-based project tailored for creating a professional 
 1. Navigate to the WordPress Admin Dashboard.
 2. Login credentials for accessing the dashboard:
    - **Username:** salahdev
-   - **Password:** 1234546dik
+   - **Password:** pV-8f-Xv_FY
 3. Customize the theme using the WordPress Customizer or Theme Settings.
 4. Add services, team members, and other content via WordPress pages or custom post types.
 5. Configure the online booking system settings (if applicable).
